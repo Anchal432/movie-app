@@ -32,7 +32,7 @@ export const data = [
       }
     ],
     Metascore: '69',
-    //index:'1',
+    //idx:'1',
     imdbRating: '8.0',
     imdbVotes: '1,216,895',
     imdbID: 'tt0848228',
@@ -76,7 +76,7 @@ export const data = [
       }
     ],
     Metascore: '84',
-    //index:'2',
+    //idx:'2',
     imdbRating: '9.0',
     imdbVotes: '2,173,344',
     imdbID: 'tt0468569',
